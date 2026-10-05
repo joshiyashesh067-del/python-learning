@@ -1,2 +1,2 @@
 # python-learning
-My Python learning journey from basics to intermediate level.
+My Python learning journey from basics to intermediate level..
